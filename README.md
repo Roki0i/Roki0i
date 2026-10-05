@@ -13,7 +13,7 @@ Data Science student in Japan, building local AI systems and data-driven applica
 ## GitHub Stats
 
 <a href="https://github.com/Roki0i">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roki0i&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&hide_rank=true" alt="Roki0i's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roki0i&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&hide_rank=true&custom_title=Roki%27s%20GitHub%20Stats" alt="Roki0i's GitHub statistics" />
 </a>
 
 <!-- Add a WakaTime card after setting up tracking and confirming the public username. -->
@@ -21,7 +21,14 @@ Data Science student in Japan, building local AI systems and data-driven applica
 ## Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cs,react,threejs,nodejs,git,unity&theme=dark" alt="Python, JavaScript, C#, React, Three.js, Node.js, Git, Unity" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="48" height="48" alt="C#" title="C#" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="React" title="React" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ThreeJS-Dark.svg" width="48" height="48" alt="Three.js" title="Three.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" title="Git" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg" width="48" height="48" alt="Unity" title="Unity" />
 </p>
 
 Pandas · Ollama · Local LLMs · AivisSpeech
@@ -29,7 +36,10 @@ Pandas · Ollama · Local LLMs · AivisSpeech
 ## Environments
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,apple,vscode,github&theme=dark" alt="Windows, macOS, Visual Studio Code, GitHub" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" title="Windows" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple-Dark.svg" width="48" height="48" alt="macOS" title="macOS" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" title="GitHub" />
 </p>
 
 Windows 11 · MacBook Air M2 · VS Code · Google Colab
@@ -43,3 +53,5 @@ Windows 11 · MacBook Air M2 · VS Code · Google Colab
 ## Contacts
 
 [GitHub @Roki0i](https://github.com/Roki0i)
+
+<!-- Technology icons: https://github.com/tandpfun/skill-icons -->
