@@ -35,7 +35,7 @@ Data Science student in Japan, building local AI systems and data-driven applica
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg" width="48" height="48" alt="Unity" title="Unity" />
 </p>
 
-Pandas · Ollama · Local LLMs · AivisSpeech
+Pandas · React Three Fiber · Ollama · Local LLMs · AivisSpeech
 
 ## Environments
 
@@ -46,16 +46,9 @@ Pandas · Ollama · Local LLMs · AivisSpeech
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" title="GitHub" />
 </p>
 
-Windows 11 · MacBook Air M2 · VS Code · Google Colab
-
 ## Currently Working On
 
 - **Local AI Assistant** — Local LLMs, streaming chat, voice synthesis, and a 3D HUD built with React and Three.js.
 - **[Steam Player Decline Analysis](https://github.com/Roki0i/steam-research)** — Graduation research into player decline patterns using player counts, reviews, and update data.
 - **[AI Trading Research](https://github.com/Roki0i/ai-trading)** — Japanese stock market research, backtesting, ML experiments, and portfolio analysis.
-
-## Contacts
-
-[GitHub @Roki0i](https://github.com/Roki0i)
-
 <!-- Technology icons: https://github.com/tandpfun/skill-icons -->
