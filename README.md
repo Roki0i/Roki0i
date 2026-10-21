@@ -1,5 +1,9 @@
 # Hi, I'm Roki
 
+<p align="center">
+  <img src="assets/hero-animated.gif" width="900" alt="Roki pixel-art midnight coding banner" />
+</p>
+
 **AI · Data Science · Interactive Web**
 
 Data Science student in Japan, building local AI systems and data-driven applications.
@@ -12,9 +16,9 @@ Data Science student in Japan, building local AI systems and data-driven applica
 
 ## GitHub Stats
 
-<a href="https://github.com/Roki0i">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roki0i&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&hide_rank=true&custom_title=Roki%27s%20GitHub%20Stats" alt="Roki0i's GitHub statistics" />
-</a>
+<p align="center">
+  <img src="assets/stats-animated.gif" width="900" alt="Roki's GitHub statistics and last 30 days of activity" />
+</p>
 
 <!-- Add a WakaTime card after setting up tracking and confirming the public username. -->
 

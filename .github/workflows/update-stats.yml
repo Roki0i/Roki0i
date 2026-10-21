@@ -1,0 +1,35 @@
+name: Update pixel GitHub stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 0 * * *' # 09:17 JST; GitHub cron runs can be delayed
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+      - name: Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Pillow
+        run: python -m pip install 'Pillow==11.3.0'
+      - name: Build stats with GitHub data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/build_animated.py --only stats --mode live
+      - name: Commit updated stats if changed
+        run: |
+          git add assets/stats-animated.gif
+          if git diff --staged --quiet; then
+            echo 'Stats have not changed.'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update pixel GitHub stats'
+          git push
