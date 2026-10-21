@@ -1,7 +1,7 @@
 # Hi, I'm Roki
 
 <p align="center">
-  <img src="assets/hero-animated.gif" width="900" alt="Roki pixel-art midnight coding banner" />
+  <img src="assets/source/hero.png" width="900" alt="Roki pixel-art midnight coding banner" />
 </p>
 
 **AI · Data Science · Interactive Web**
