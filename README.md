@@ -4,6 +4,13 @@
   <img src="assets/source/hero.png" width="900" alt="Roki pixel-art midnight coding banner" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3200&amp;pause=1200&amp;color=73CDE0&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=42&amp;lines=Building+local+AI+systems;Creating+interactive+web+apps;Exploring+data+through+code" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3200&amp;pause=1200&amp;color=287B90&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=42&amp;lines=Building+local+AI+systems;Creating+interactive+web+apps;Exploring+data+through+code" width="620" alt="Typing animation: Building local AI systems; Creating interactive web apps; Exploring data through code" />
+  </picture>
+</p>
+
 **AI · Web Development · Data Science**
 
 Data Science student in Japan building local AI systems, web applications, and data visualization tools.
@@ -44,26 +51,45 @@ A browser-based editor for creating short, music-driven vertical videos with pre
   <img src="assets/stats-animated.gif" width="900" alt="Roki's GitHub statistics and last 30 days of activity" />
 </p>
 
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Roki0i&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=56B6C2&amp;point=56B6C2&amp;area=true&amp;hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roki0i&amp;bg_color=FFFFFF&amp;color=24292F&amp;line=287B90&amp;point=287B90&amp;area=true&amp;hide_border=true" width="900" alt="GitHub activity graph for Roki0i (recent contributions)" />
+  </picture>
+</p>
+
 <!-- Add a WakaTime card after setting up tracking and confirming the public username. -->
 
-## Languages & Tools
+## Tech Stack
+
+### Languages
 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" title="Python" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="48" height="48" alt="C#" title="C#" />
+</p>
 
+### Web & Runtime
+
+<p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="React" title="React" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ThreeJS-Dark.svg" width="48" height="48" alt="Three.js" title="Three.js" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="48" height="48" alt="Vite" title="Vite" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+</p>
 
+### Development Tools
+
+<p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" title="Git" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg" width="48" height="48" alt="Unity" title="Unity" />
 </p>
 
-Pandas · SQLite · React Three Fiber · Ollama · Local LLMs · AivisSpeech · GitHub Actions · Playwright
+**Other technologies:** Pandas · SQLite · React Three Fiber · Ollama · Local LLMs · AivisSpeech · GitHub Actions · Playwright
 
 ## Environments
 
